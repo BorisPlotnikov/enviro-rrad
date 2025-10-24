@@ -1,5 +1,5 @@
 # enviro-rrad
-Raw Environmental Data to RrAD Table Transformer
+Transformer for converting raw environmental data into RrAD tables
 
 ## Contribution Policy
 
