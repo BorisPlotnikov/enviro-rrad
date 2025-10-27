@@ -15,7 +15,7 @@ export const metadata = {
   title: "Enviro-RrAD",
   description: "Transformer for converting raw environmental data into RrAD table",
   icons: {
-    icon: "/favicon_io/clrBgd/favicon.ico", 
+    icon: "/icons/favicon_io/clrBgd/favicon.ico", 
   },
 };
 
